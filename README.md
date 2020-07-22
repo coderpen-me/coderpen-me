@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2424687/screenshots/6065697/cat-01.png" />
 
 - 👨🏽‍💻 I’m currently looking for full time opportunities;
 - 🌱 I’m currently learning Next.Js and working on backend systems; 
@@ -35,7 +35,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/coderpen-me">
-    <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=coderpen-me&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="coderpen's github stats" src="https://github-readme-stats.vercel.app/api?username=coderpen-me&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
