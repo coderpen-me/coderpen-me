@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" top="-100px" align="right" alt="Github" src="https://bit.ly/3jnKPi9" />
+<img width="55%" top="-100px" align="right" alt="Github" src="https://cdn.dribbble.com/users/970021/screenshots/4644255/job-banners.png" />
 
 - 👨🏽‍💻 I’m currently looking for full time opportunities;
 - 🌱 I’m currently learning Next.Js and working on backend systems; 
